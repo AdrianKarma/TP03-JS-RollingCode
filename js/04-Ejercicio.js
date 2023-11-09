@@ -1,5 +1,5 @@
 function parImpar() {
-    var numero = prompt("Ingrese un numero entero:");
+    let numero = prompt("Ingrese un numero entero:");
     while (isNaN(numero)) {
         numero = prompt("El valor ingresado no es un numero. Ingrese un numero entero:");
     }
