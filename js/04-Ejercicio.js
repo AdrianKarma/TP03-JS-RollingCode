@@ -10,5 +10,5 @@ function parImpar() {
     }
 }
 
-var resultado = parImpar();
+let resultado = parImpar();
 document.write(resultado);
