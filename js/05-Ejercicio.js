@@ -8,6 +8,6 @@ function informacion_cadena(cadena) {
     }
 }
 
-var cadena = prompt("Ingrese una cadena de texto:");
-var resultado = informacion_cadena(cadena);
+let cadena = prompt("Ingrese una cadena de texto:");
+let resultado = informacion_cadena(cadena);
 document.write(resultado);
